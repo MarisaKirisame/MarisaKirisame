@@ -1,4 +1,4 @@
-Utah CPU PHD. Ex UW PLSE Master. TVM Commiter. ![]( https://visitor-badge.glitch.me/badge?page_id=https://github.com/MarisaKirisame/MarisaKirisame)
+![]( https://visitor-badge.glitch.me/badge?page_id=https://github.com/MarisaKirisame/MarisaKirisame) Utah CPU PHD. Ex UW PLSE Master. TVM Commiter. 
 
 Compiler. Machine Learning. Theorem Proving. Program Analysis. Automatic Differentiation. Garbage Collection. Functional Programming.
 
