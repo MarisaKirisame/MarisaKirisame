@@ -1,4 +1,4 @@
-Utah CPU PHD. Ex UW PLSE Master. TVM Commiter. 
+Utah CPU PHD. UW PLSE alumni. TVM Commiter. 
 
 Compiler. Machine Learning. Theorem Proving. Program Analysis. Automatic Differentiation. Garbage Collection. Functional Programming.
 
